@@ -1,0 +1,8 @@
+{
+  "required": "<b>{{field}}</b> is a required field",
+  "url": "Field <b>{{field}}</b> must contain a valid url",
+  "email": "Field <b>{{field}}</b> must contain a valid email",
+  "min": "Field <b>{{field}}</b> should have more than {{argument.0}} symbols",
+  "max": "Field <b>{{field}}</b> should have less than {{argument.0}} symbols",
+  "unique": "Field <b>{{field}}</b> must be unique"
+}
